@@ -68,9 +68,6 @@ const Feedback = () => {
 export default Feedback;
 
 /*
-
-ірше 
-
 class Feedback extends Component {
   state = {
     good: 0,
